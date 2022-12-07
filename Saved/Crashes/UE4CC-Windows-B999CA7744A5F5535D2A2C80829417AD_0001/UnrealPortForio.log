@@ -1,0 +1,750 @@
+﻿Log file open, 12/07/22 17:46:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealPortForio
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.096460
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:858][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.07-08.46.44:858][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.07-08.46.44:859][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:859][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:863][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.07-08.46.44:863][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.07-08.46.44:864][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:864][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.07-08.46.44:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.07-08.46.44:865][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.07-08.46.44:865][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.07-08.46.44:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.07-08.46.44:869][  0]LogHAL: Display: Platform has ~ 8 GB [8520671232 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.07-08.46.44:869][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.07-08.46.44:869][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.07-08.46.44:869][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.07-08.46.44:870][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.07-08.46.44:871][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.46.44:871][  0]LogInit: Computer: DESKTOP-SVIP9VV
+[2022.12.07-08.46.44:871][  0]LogInit: User: ghwns
+[2022.12.07-08.46.44:871][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.07-08.46.44:871][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.07-08.46.44:872][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.12.07-08.46.44:872][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.07-08.46.44:872][  0]LogMemory: Process Physical Memory: 104.96 MB used, 104.96 MB peak
+[2022.12.07-08.46.44:872][  0]LogMemory: Process Virtual Memory: 99.86 MB used, 99.86 MB peak
+[2022.12.07-08.46.44:872][  0]LogMemory: Physical Memory: 4933.78 MB used,  3192.17 MB free, 8125.95 MB total
+[2022.12.07-08.46.44:872][  0]LogMemory: Virtual Memory: 5123.22 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2022.12.07-08.46.44:875][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.07-08.46.44:896][  0]LogInit: Using OS detected language (ko-KR).
+[2022.12.07-08.46.44:896][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.12.07-08.46.44:897][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.12.07-08.46.44:979][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.07-08.46.45:032][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.07-08.46.45:032][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.07-08.46.45:235][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.07-08.46.45:235][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.07-08.46.45:235][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.07-08.46.45:236][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.07-08.46.45:334][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.12.07-08.46.45:334][  0]LogD3D11RHI:       1977/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.07-08.46.45:337][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.07-08.46.45:337][  0]LogD3D11RHI:       0/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.07-08.46.45:337][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.07-08.46.45:342][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.07-08.46.45:342][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.07-08.46.45:342][  0]LogWindows: EnumDisplayDevices:
+[2022.12.07-08.46.45:342][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2022.12.07-08.46.45:343][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.12.07-08.46.45:344][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.12.07-08.46.45:345][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.12.07-08.46.45:346][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.07-08.46.45:346][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.12.07-08.46.45:346][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2022.12.07-08.46.45:346][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2022.12.07-08.46.45:346][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2022.12.07-08.46.45:407][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.07-08.46.45:408][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.07-08.46.45:423][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.07-08.46.45:855][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.07-08.46.45:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.07-08.46.45:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.07-08.46.45:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.07-08.46.45:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.07-08.46.45:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.07-08.46.45:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.07-08.46.45:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.07-08.46.45:953][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.07-08.46.45:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.07-08.46.45:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.07-08.46.46:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.07-08.46.46:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.07-08.46.46:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.07-08.46.46:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.07-08.46.46:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.07-08.46.46:045][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.07-08.46.46:054][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.07-08.46.46:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.07-08.46.46:064][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.07-08.46.46:069][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.07-08.46.46:107][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Intermediate/Shaders/WorkingDirectory/20364/).
+[2022.12.07-08.46.46:107][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ghwns/AppData/Local/Temp/UnrealShaderWorkingDir/B5CD61BB4898297829680594FDDC5755/'.
+[2022.12.07-08.46.46:108][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.07-08.46.46:108][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.07-08.46.46:108][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.07-08.46.46:831][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.07-08.46.46:896][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/ghwns/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.07-08.46.46:896][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ghwns/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.12.07-08.46.46:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.07-08.46.46:896][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.07-08.46.46:896][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-08.46.46:896][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.07-08.46.46:906][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.07-08.46.46:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-08.46.46:907][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.07-08.46.46:908][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ghwns/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.07-08.46.46:908][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.07-08.46.46:908][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.07-08.46.46:931][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.12.07-08.46.46:933][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.07-08.46.46:934][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.07-08.46.46:995][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2022.12.07-08.46.47:274][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.07-08.46.47:430][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.07-08.46.47:430][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.07-08.46.47:430][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.07-08.46.47:430][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.07-08.46.47:430][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.07-08.46.47:442][  0]LogNetVersion: UnrealPortForio 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 877020118)
+[2022.12.07-08.46.48:566][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041522 seconds
+[2022.12.07-08.46.48:572][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.12.07-08.46.48:572][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.12.07-08.46.48:572][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.07-08.46.48:982][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.07-08.46.48:985][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.07-08.46.49:037][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.46.49:037][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.46.49:038][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.46.49:039][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.46.49:040][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.46.49:142][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.07-08.46.49:153][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-08.46.49:153][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-08.46.49:239][  0]LogOcInput: OculusInput pre-init called
+[2022.12.07-08.46.49:248][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.07-08.46.49:248][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.07-08.46.49:313][  0]LogEngine: Initializing Engine...
+[2022.12.07-08.46.49:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.07-08.46.49:315][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.07-08.46.49:636][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.07-08.46.49:643][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-08.46.49:662][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-08.46.49:662][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-08.46.49:663][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.07-08.46.49:663][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Name: 스피커(High Definition Audio Device)
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: Channel Order:
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-08.46.49:717][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-08.46.49:756][  0]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2022.12.07-08.46.49:760][  0]LogInit: FAudioDevice initialized.
+[2022.12.07-08.46.49:761][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.07-08.46.49:839][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/ghwns/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.07-08.46.49:839][  0]LogInit: Texture streaming: Enabled
+[2022.12.07-08.46.49:851][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.07-08.46.49:851][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.07-08.46.49:856][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.07-08.46.49:890][  0]LogInit: Transaction tracking system initialized
+[2022.12.07-08.46.49:901][  0]BlueprintLog: New page: 에디터 로드
+[2022.12.07-08.46.49:940][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.12.07-08.46.50:230][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/' took 0.01s
+[2022.12.07-08.46.50:231][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.12.07-08.46.50:231][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.07-08.46.51:028][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.46.51:165][  0]LogSlate: Took 0.001907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.07-08.46.51:165][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.07-08.46.54:979][  0]LogSlate: Window '패키지 복원' being destroyed
+[2022.12.07-08.46.54:992][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-08.46.54:992][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.07-08.46.54:993][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.46.54:993][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.46.54:993][  0]MapCheck: New page: 맵 체크
+[2022.12.07-08.46.54:994][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.07-08.46.55:021][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.07-08.46.55:701][  0]LogAIModule: Creating AISystem for world Player
+[2022.12.07-08.46.55:713][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-08.46.55:743][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.12.07-08.46.55:743][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-08.46.55:744][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.276ms.
+[2022.12.07-08.46.55:744][  0]LogFileHelpers: Loading map 'Player' took 0.752
+[2022.12.07-08.46.55:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.46.55:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.46.55:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.46.55:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.46.55:880][  0]LogCollectionManager: Loaded 0 collections in 0.001929 seconds
+[2022.12.07-08.46.55:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Collections/' took 0.00s
+[2022.12.07-08.46.55:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Developers/ghwns/Collections/' took 0.00s
+[2022.12.07-08.46.55:892][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Collections/' took 0.00s
+[2022.12.07-08.46.55:892][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 3015 classes and 717 folders.
+[2022.12.07-08.46.55:894][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.07-08.46.55:968][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.07-08.46.55:974][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.12.07-08.46.56:015][  0]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.07-08.46.56:018][  0]LogSlate: Took 0.003064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.07-08.46.56:019][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.07-08.46.56:019][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.07-08.46.56:036][  0]LogSlate: Took 0.002157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.12.07-08.46.56:102][  0]LogRenderer: Reallocating scene render targets to support 1116x652 Format 10 NumSamples 1 (Frame:1).
+[2022.12.07-08.46.56:150][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.07-08.46.56:193][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.07-08.46.56:193][  0]LogLoad: (Engine Initialization) Total time: 13.31 seconds
+[2022.12.07-08.46.56:193][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.07-08.46.56:252][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.07-08.46.56:279][  1]LogAssetRegistry: Asset discovery search completed in 9.2847 seconds
+[2022.12.07-08.46.56:282][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2022.12.07-08.46.57:230][ 94]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.07-08.47.02:388][641]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.47.02:513][641]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2022.12.07-08.47.03:294][641]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.07-08.47.03:357][642]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.07-08.47.08:334][ 61]LogSlate: Window '블루프린트 부모변경' being destroyed
+[2022.12.07-08.47.08:339][ 61]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster from BP_Enemy_C to Actor...
+[2022.12.07-08.47.08:358][ 61]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.47.08:363][ 61]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'ParticleSystem' in BlueprintGeneratedClass 'BP_ShowMonster_C' (it may have been removed)
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_0:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Engine/Transient.World_0:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_0:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_1:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Engine/Transient.World_1:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.47.08:516][ 61]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_1:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.47.08:550][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.12.07-08.47.10:974][303]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.47.10:977][303]LogBlueprint: Error: [Compiler BP_ShowMonster] 이 블루프린트(셀프)는 SceneComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.12.07-08.47.10:977][303]LogBlueprint: Error: [Compiler BP_ShowMonster] 이 블루프린트(셀프)는 SceneComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.12.07-08.47.10:977][303]LogBlueprint: Error: [Compiler BP_ShowMonster] 이 블루프린트(셀프)는 SceneComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.12.07-08.47.10:977][303]LogBlueprint: Error: [Compiler BP_ShowMonster] 이 블루프린트(셀프)는 SceneComponent 이지 않으므로, ' 타깃 ' 에 연결이 있어야 합니다.
+[2022.12.07-08.47.11:162][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.12.07-08.47.11:521][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_ShowMonster" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset" SILENT=true
+[2022.12.07-08.47.11:538][339]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonster5DDEC00745682D731C1B84827145E2A5.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset'
+[2022.12.07-08.47.11:554][339]AssetCheck: New page: Asset Save: BP_ShowMonster
+[2022.12.07-08.47.11:554][339]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster 유효성 검사
+[2022.12.07-08.47.14:714][703]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.47.14:907][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.12.07-08.47.16:024][829]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.47.16:024][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.47.17:286][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.12.07-08.47.18:859][966]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.47.18:870][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.12.07-08.47.23:474][486]Cmd: DELETE
+[2022.12.07-08.47.23:474][486]Cmd: ACTOR DELETE
+[2022.12.07-08.47.23:475][486]LogEditorActor: Deleted Actor: BP_ShowMonster_C
+[2022.12.07-08.47.23:505][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.12.07-08.47.23:506][486]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.12.07-08.47.24:435][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.47.26:643][819]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.47.26:643][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.47.27:453][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.12.07-08.47.28:749][904]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.47.28:765][904]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/BluePrint/BP_Text.BP_Text
+[2022.12.07-08.47.30:595][104]LogSlate: Window 'BP_Text' being destroyed
+[2022.12.07-08.47.32:687][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.07-08.47.32:718][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.12.07-08.47.32:741][343]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player1E9B70B440F8F4C86350C581024AB906.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap'
+[2022.12.07-08.47.32:751][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player_BuiltData" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player_BuiltData.uasset" SILENT=true
+[2022.12.07-08.47.32:768][343]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player_BuiltDataC1E46A6E43EED2331A2A719236F751E9.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player_BuiltData.uasset'
+[2022.12.07-08.47.32:788][343]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2022.12.07-08.47.32:788][343]LogContentValidation: Display: World /Game/Levels/Player.Player 유효성 검사
+[2022.12.07-08.47.32:789][343]LogContentValidation: Display: MapBuildDataRegistry /Game/Levels/Player_BuiltData.Player_BuiltData 유효성 검사
+[2022.12.07-08.47.33:803][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.47.35:553][635]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.47.35:553][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.47.35:598][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.47.37:450][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_ShowMonster" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset" SILENT=true
+[2022.12.07-08.47.37:457][804]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonster5BC27D894275AD3033F3B1873A950779.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset'
+[2022.12.07-08.47.37:471][804]AssetCheck: New page: Asset Save: BP_ShowMonster
+[2022.12.07-08.47.37:471][804]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster 유효성 검사
+[2022.12.07-08.47.38:805][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.12.07-08.47.45:911][955]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.47.45:932][955]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/BluePrint/BP_Text.BP_Text
+[2022.12.07-08.47.47:618][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_Text" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_Text.uasset" SILENT=true
+[2022.12.07-08.47.47:623][152]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_Text412FF5564842AAC6E092D8A19B8FBD67.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_Text.uasset'
+[2022.12.07-08.47.47:640][152]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2022.12.07-08.47.47:640][152]LogContentValidation: Display: ObjectRedirector /Game/BluePrint/BP_Text.BP_Text_C 유효성 검사
+[2022.12.07-08.47.47:641][152]LogContentValidation: Display: ObjectRedirector /Game/BluePrint/BP_Text.BP_Text 유효성 검사
+[2022.12.07-08.47.49:636][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.07-08.48.05:335][369]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.48.11:424][ 83]LogAIModule: Creating AISystem for world Test
+[2022.12.07-08.48.11:428][ 83]LogObjectTools: Deleting 1 worlds: /Game/Levels/Test.Test
+[2022.12.07-08.48.11:428][ 83]LogObjectTools: Currently 7 active worlds: /Game/Levels/Player.Player, /Engine/Transient.World_0, /Engine/Transient.World_2, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2022.12.07-08.48.11:461][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.12.07-08.48.12:634][ 83]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.48.12:647][ 83]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.48.12:647][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.48.12:749][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.07-08.48.12:789][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.07-08.48.12:818][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.07-08.48.17:800][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.12.07-08.48.20:091][641]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.48.20:866][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.07-08.48.20:897][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.07-08.48.20:917][728]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/PlayerBE51D03644A7B59200916E952282044A.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap'
+[2022.12.07-08.48.20:926][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player_BuiltData" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player_BuiltData.uasset" SILENT=true
+[2022.12.07-08.48.20:939][728]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player_BuiltData8CC300CF4C2715FC936C199AE1E263F0.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player_BuiltData.uasset'
+[2022.12.07-08.48.20:957][728]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2022.12.07-08.48.20:958][728]LogContentValidation: Display: World /Game/Levels/Player.Player 유효성 검사
+[2022.12.07-08.48.20:958][728]LogContentValidation: Display: MapBuildDataRegistry /Game/Levels/Player_BuiltData.Player_BuiltData 유효성 검사
+[2022.12.07-08.48.29:999][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.07-08.48.30:030][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.07-08.48.30:050][765]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/PlayerCFB1703E48322055ECC07C9573CDC7D0.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap'
+[2022.12.07-08.48.30:059][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player_BuiltData" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player_BuiltData.uasset" SILENT=true
+[2022.12.07-08.48.30:071][765]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player_BuiltData20C4AD1148EE29F323BDAB92CF7278FD.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player_BuiltData.uasset'
+[2022.12.07-08.48.30:088][765]AssetCheck: New page: Asset Save: 애셋이 다수입니다.
+[2022.12.07-08.48.30:088][765]LogContentValidation: Display: World /Game/Levels/Player.Player 유효성 검사
+[2022.12.07-08.48.30:088][765]LogContentValidation: Display: MapBuildDataRegistry /Game/Levels/Player_BuiltData.Player_BuiltData 유효성 검사
+[2022.12.07-08.48.32:339][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.12.07-08.48.34:232][ 26]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.48.39:553][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.12.07-08.48.40:779][624]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.48.40:796][624]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/BluePrint/BP_Text.BP_Text
+[2022.12.07-08.48.45:201][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.07-08.48.48:755][128]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.48.49:625][128]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.48.49:626][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.48.49:668][128]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+	Asset Name: /Game/BluePrint/BP_Text.BP_Text
+[2022.12.07-08.48.49:881][128]LogCompression: Warning: appUncompressMemoryZLIB failed: Error: Z_DATA_ERROR, input data was corrupted or incomplete!
+[2022.12.07-08.48.49:881][128]LogCompression: Error: FCompression::UncompressMemory - Failed to uncompress memory (131118/131072) from address 000001C615028E40 using format Zlib, this may indicate the asset is corrupt!
+[2022.12.07-08.48.49:881][128]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.07-08.48.49:882][128]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)

@@ -1,0 +1,1205 @@
+﻿Log file open, 12/07/22 17:07:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealPortForio
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.846654
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1050
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.07-08.07.35:787][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.07-08.07.35:787][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.07-08.07.35:788][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.07-08.07.35:789][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.07-08.07.35:789][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.07-08.07.35:789][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.07-08.07.35:789][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.07-08.07.35:789][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.07-08.07.35:789][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:789][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.07-08.07.35:796][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.07-08.07.35:797][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.07-08.07.35:797][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.07-08.07.35:797][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.07-08.07.35:803][  0]LogHAL: Display: Platform has ~ 8 GB [8520671232 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.07-08.07.35:803][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.07-08.07.35:804][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.07-08.07.35:804][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.07-08.07.35:805][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.07-08.07.35:806][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.07-08.07.35:806][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.07-08.07.35:806][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.07-08.07.35:808][  0]LogInit: Computer: DESKTOP-SVIP9VV
+[2022.12.07-08.07.35:808][  0]LogInit: User: ghwns
+[2022.12.07-08.07.35:808][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.12.07-08.07.35:808][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.07-08.07.35:808][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.12.07-08.07.35:808][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.07-08.07.35:808][  0]LogMemory: Process Physical Memory: 104.74 MB used, 104.74 MB peak
+[2022.12.07-08.07.35:808][  0]LogMemory: Process Virtual Memory: 99.74 MB used, 99.74 MB peak
+[2022.12.07-08.07.35:808][  0]LogMemory: Physical Memory: 4266.72 MB used,  3859.23 MB free, 8125.95 MB total
+[2022.12.07-08.07.35:808][  0]LogMemory: Virtual Memory: 5123.22 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2022.12.07-08.07.35:821][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.07-08.07.36:084][  0]LogInit: Using OS detected language (ko-KR).
+[2022.12.07-08.07.36:084][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.12.07-08.07.36:086][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.12.07-08.07.36:486][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.07-08.07.36:659][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.07-08.07.36:659][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.07-08.07.40:027][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.07-08.07.40:027][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.07-08.07.40:027][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.07-08.07.40:027][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.07-08.07.40:312][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.12.07-08.07.40:312][  0]LogD3D11RHI:       1977/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.07-08.07.40:316][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.07-08.07.40:316][  0]LogD3D11RHI:       0/0/4062 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.07-08.07.40:317][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.07-08.07.40:323][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.07-08.07.40:323][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.07-08.07.40:323][  0]LogWindows: EnumDisplayDevices:
+[2022.12.07-08.07.40:324][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2022.12.07-08.07.40:325][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.12.07-08.07.40:326][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.12.07-08.07.40:327][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2022.12.07-08.07.40:327][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.07-08.07.40:327][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.12.07-08.07.40:327][  0]LogD3D11RHI:   Driver Version: 457.51 (internal:27.21.14.5751, unified:457.51)
+[2022.12.07-08.07.40:327][  0]LogD3D11RHI:      Driver Date: 11-22-2020
+[2022.12.07-08.07.40:327][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2022.12.07-08.07.40:398][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.07-08.07.40:399][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.07-08.07.40:429][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.07-08.07.41:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.07-08.07.41:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.07-08.07.41:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.07-08.07.41:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.07-08.07.41:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.07-08.07.41:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.07-08.07.41:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.07-08.07.41:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.07-08.07.41:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.07-08.07.41:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.07-08.07.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.07-08.07.41:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.07-08.07.41:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.07-08.07.41:644][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.07-08.07.41:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.07-08.07.41:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.07-08.07.41:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.07-08.07.41:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.07-08.07.41:691][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.07-08.07.41:761][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.07-08.07.41:936][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Intermediate/Shaders/WorkingDirectory/11456/).
+[2022.12.07-08.07.41:936][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ghwns/AppData/Local/Temp/UnrealShaderWorkingDir/B08220C349CEC3D730AE86920D5811A3/'.
+[2022.12.07-08.07.41:938][  0]LogXGEController: Cleaning working directory: C:/Users/ghwns/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.12.07-08.07.41:938][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.07-08.07.41:938][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.07-08.07.41:938][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.07-08.07.45:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.07-08.07.45:941][  0]LogDerivedDataCache: Loaded boot cache 0.40s 78MB C:/Users/ghwns/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.07-08.07.45:941][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ghwns/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.12.07-08.07.45:941][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.07-08.07.45:941][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.07-08.07.45:942][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-08.07.45:942][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.07-08.07.45:964][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.07-08.07.45:964][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-08.07.45:964][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.07-08.07.45:967][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ghwns/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.07-08.07.45:967][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.07-08.07.45:967][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.07-08.07.45:997][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.12.07-08.07.46:012][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.07-08.07.46:029][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.07-08.07.46:228][  0]LogAssetRegistry: FAssetRegistry took 0.0070 seconds to start up
+[2022.12.07-08.07.47:008][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.07-08.07.47:477][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.07-08.07.47:477][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.07-08.07.47:477][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.07-08.07.47:477][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.07-08.07.47:477][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.07-08.07.47:560][  0]LogNetVersion: UnrealPortForio 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 877020118)
+[2022.12.07-08.07.51:267][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.040404 seconds
+[2022.12.07-08.07.51:276][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.12.07-08.07.51:276][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.12.07-08.07.51:276][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.07-08.07.52:381][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.07-08.07.52:417][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.07-08.07.52:565][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.07.52:566][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.07.52:577][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.07.52:587][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.07.52:592][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.07.52:948][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.07-08.07.52:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-08.07.52:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-08.07.53:190][  0]LogOcInput: OculusInput pre-init called
+[2022.12.07-08.07.53:218][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.07-08.07.53:218][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.07-08.07.53:439][  0]LogEngine: Initializing Engine...
+[2022.12.07-08.07.53:447][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.07-08.07.53:456][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.004 s
+[2022.12.07-08.07.53:832][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.07-08.07.53:918][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-08.07.53:957][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-08.07.53:957][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-08.07.53:960][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.07-08.07.53:961][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Name: 스피커(High Definition Audio Device)
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: Channel Order:
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-08.07.54:028][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-08.07.54:070][  0]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2022.12.07-08.07.54:084][  0]LogInit: FAudioDevice initialized.
+[2022.12.07-08.07.54:088][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.07-08.07.54:172][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/ghwns/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.07-08.07.54:173][  0]LogInit: Texture streaming: Enabled
+[2022.12.07-08.07.54:203][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.07-08.07.54:204][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.07-08.07.54:209][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.07-08.07.54:490][  0]LogInit: Transaction tracking system initialized
+[2022.12.07-08.07.54:559][  0]BlueprintLog: New page: 에디터 로드
+[2022.12.07-08.07.54:812][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.12.07-08.07.55:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/' took 0.01s
+[2022.12.07-08.07.55:375][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.12.07-08.07.55:376][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.07-08.07.56:663][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.07-08.07.56:691][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2022.12.07-08.07.56:713][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.12.07-08.07.56:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.12.07-08.07.56:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.12.07-08.07.56:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.12.07-08.07.56:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.12.07-08.07.56:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.12.07-08.07.56:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.12.07-08.07.56:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.12.07-08.07.56:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.12.07-08.07.56:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.12.07-08.07.56:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.12.07-08.07.56:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.12.07-08.07.56:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.12.07-08.07.56:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.12.07-08.07.56:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.12.07-08.07.56:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.12.07-08.07.56:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.12.07-08.07.56:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.12.07-08.07.56:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire01.uasset"
+[2022.12.07-08.07.56:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.12.07-08.07.56:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.12.07-08.07.56:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.12.07-08.07.56:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Light01.uasset"
+[2022.12.07-08.07.56:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.12.07-08.07.56:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Light02.uasset"
+[2022.12.07-08.07.56:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.12.07-08.07.56:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.12.07-08.07.56:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.12.07-08.07.56:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.12.07-08.07.57:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.12.07-08.07.57:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.12.07-08.07.57:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.12.07-08.07.57:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.12.07-08.07.57:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.12.07-08.07.57:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Steam01.uasset"
+[2022.12.07-08.07.57:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.12.07-08.07.57:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.12.07-08.07.57:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.12.07-08.07.57:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.12.07-08.07.57:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.12.07-08.07.57:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.12.07-08.07.57:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.12.07-08.07.57:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.12.07-08.07.57:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.12.07-08.07.57:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.12.07-08.07.57:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.12.07-08.07.57:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.12.07-08.07.57:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.12.07-08.07.57:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.12.07-08.07.57:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.12.07-08.07.57:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.12.07-08.07.57:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.12.07-08.07.57:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.12.07-08.07.57:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.12.07-08.07.57:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.12.07-08.07.57:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.12.07-08.07.57:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.12.07-08.07.57:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Maps/StarterMap.umap"
+[2022.12.07-08.07.57:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.12.07-08.07.57:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.12.07-08.07.57:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.12.07-08.07.57:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.12.07-08.07.57:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.12.07-08.07.57:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.12.07-08.07.57:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.12.07-08.07.57:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.12.07-08.07.57:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.12.07-08.07.57:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.12.07-08.07.57:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.12.07-08.07.57:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.12.07-08.07.57:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.12.07-08.07.57:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.12.07-08.07.57:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.12.07-08.07.57:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.12.07-08.07.57:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.12.07-08.07.57:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.12.07-08.07.57:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.12.07-08.07.57:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.12.07-08.07.57:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.12.07-08.07.57:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.12.07-08.07.57:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.12.07-08.07.57:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.12.07-08.07.57:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.12.07-08.07.57:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.12.07-08.07.57:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.12.07-08.07.57:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.12.07-08.07.57:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.12.07-08.07.57:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.12.07-08.07.57:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.12.07-08.07.57:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.12.07-08.07.57:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.12.07-08.07.57:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.12.07-08.07.57:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.12.07-08.07.57:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.12.07-08.07.57:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.12.07-08.07.57:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.12.07-08.07.57:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.12.07-08.07.57:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.12.07-08.07.57:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.12.07-08.07.57:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.12.07-08.07.57:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.12.07-08.07.57:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.12.07-08.07.57:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.12.07-08.07.57:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.12.07-08.07.58:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.12.07-08.07.58:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.12.07-08.07.58:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.12.07-08.07.58:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.12.07-08.07.58:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.12.07-08.07.58:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.12.07-08.07.58:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.12.07-08.07.58:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.12.07-08.07.58:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.12.07-08.07.58:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.12.07-08.07.58:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.12.07-08.07.58:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.12.07-08.07.58:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.12.07-08.07.58:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.12.07-08.07.58:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.12.07-08.07.58:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.12.07-08.07.58:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.12.07-08.07.58:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.12.07-08.07.58:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.12.07-08.07.58:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Door.uasset"
+[2022.12.07-08.07.58:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.12.07-08.07.58:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.12.07-08.07.58:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.12.07-08.07.58:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.12.07-08.07.58:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.12.07-08.07.58:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.12.07-08.07.58:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.12.07-08.07.58:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.12.07-08.07.58:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.12.07-08.07.58:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.12.07-08.07.58:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.12.07-08.07.58:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.12.07-08.07.58:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.12.07-08.07.58:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.12.07-08.07.58:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.12.07-08.07.58:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.12.07-08.07.58:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.12.07-08.07.58:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.12.07-08.07.58:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.12.07-08.07.58:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.12.07-08.07.58:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.12.07-08.07.58:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.12.07-08.07.58:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.12.07-08.07.58:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.12.07-08.07.58:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.12.07-08.07.58:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.12.07-08.07.58:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.12.07-08.07.58:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.12.07-08.07.58:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.12.07-08.07.58:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.12.07-08.07.58:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.12.07-08.07.58:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.12.07-08.07.58:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.12.07-08.07.58:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.12.07-08.07.58:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.12.07-08.07.58:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.12.07-08.07.58:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.12.07-08.07.58:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.12.07-08.07.58:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.12.07-08.07.58:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.12.07-08.07.58:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.12.07-08.07.58:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.12.07-08.07.58:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.12.07-08.07.58:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.12.07-08.07.58:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.12.07-08.07.58:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.12.07-08.07.58:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.12.07-08.07.58:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.12.07-08.07.58:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.12.07-08.07.58:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.12.07-08.07.58:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.12.07-08.07.58:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.12.07-08.07.58:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.12.07-08.07.58:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.12.07-08.07.58:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.12.07-08.07.59:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.12.07-08.07.59:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.12.07-08.07.59:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.12.07-08.07.59:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.12.07-08.07.59:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.12.07-08.07.59:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.12.07-08.07.59:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.12.07-08.07.59:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.12.07-08.07.59:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.12.07-08.07.59:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.12.07-08.07.59:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.12.07-08.07.59:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.12.07-08.07.59:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.12.07-08.07.59:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.12.07-08.07.59:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.12.07-08.07.59:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.12.07-08.07.59:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.12.07-08.07.59:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.12.07-08.07.59:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.12.07-08.07.59:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.12.07-08.07.59:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.12.07-08.07.59:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.12.07-08.07.59:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.12.07-08.07.59:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.12.07-08.07.59:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.12.07-08.07.59:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.12.07-08.07.59:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.12.07-08.07.59:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.12.07-08.07.59:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.12.07-08.07.59:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.12.07-08.07.59:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.12.07-08.07.59:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.12.07-08.07.59:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.12.07-08.07.59:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.12.07-08.07.59:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.12.07-08.07.59:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.12.07-08.07.59:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.12.07-08.08.00:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.12.07-08.08.00:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.12.07-08.08.01:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.12.07-08.08.01:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.12.07-08.08.01:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.12.07-08.08.01:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.12.07-08.08.01:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.12.07-08.08.01:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.12.07-08.08.01:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.12.07-08.08.01:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.12.07-08.08.01:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.12.07-08.08.01:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.12.07-08.08.01:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.12.07-08.08.01:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.12.07-08.08.01:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.12.07-08.08.01:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.12.07-08.08.01:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.12.07-08.08.01:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.12.07-08.08.01:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.12.07-08.08.01:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.12.07-08.08.01:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.12.07-08.08.01:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.12.07-08.08.01:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.12.07-08.08.02:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.12.07-08.08.02:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.12.07-08.08.02:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.12.07-08.08.02:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.12.07-08.08.02:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.12.07-08.08.02:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.12.07-08.08.02:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.12.07-08.08.02:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.12.07-08.08.02:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.12.07-08.08.02:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.12.07-08.08.02:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.12.07-08.08.02:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.12.07-08.08.02:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.12.07-08.08.02:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.12.07-08.08.02:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.12.07-08.08.02:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.12.07-08.08.02:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.12.07-08.08.02:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.12.07-08.08.02:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.12.07-08.08.02:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.12.07-08.08.02:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.12.07-08.08.02:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.12.07-08.08.02:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.12.07-08.08.02:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.12.07-08.08.02:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.12.07-08.08.02:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.12.07-08.08.02:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.12.07-08.08.02:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.12.07-08.08.02:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.12.07-08.08.03:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.12.07-08.08.04:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.12.07-08.08.04:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.12.07-08.08.08:899][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.12.07-08.08.09:600][  0]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Floor_400x400B2844F2D456BC173FD6256AE9B1F93A4.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.12.07-08.08.09:609][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2022.12.07-08.08.09:612][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Levels/Player.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-08.08.09:612][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.07-08.08.09:625][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.08.09:629][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.08.09:634][  0]MapCheck: New page: 맵 체크
+[2022.12.07-08.08.09:634][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.07-08.08.09:711][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.07-08.08.11:242][  0]LogAIModule: Creating AISystem for world Player
+[2022.12.07-08.08.11:369][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-08.08.11:413][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.07-08.08.11:413][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-08.08.11:415][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 1.763ms.
+[2022.12.07-08.08.11:415][  0]LogFileHelpers: Loading map 'Player' took 1.805
+[2022.12.07-08.08.11:934][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.08.11:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.08.11:952][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.08.11:959][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.08.11:990][  0]LogCollectionManager: Loaded 0 collections in 0.001837 seconds
+[2022.12.07-08.08.12:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Collections/' took 0.00s
+[2022.12.07-08.08.12:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Developers/ghwns/Collections/' took 0.00s
+[2022.12.07-08.08.12:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Collections/' took 0.00s
+[2022.12.07-08.08.12:034][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 3015 classes and 717 folders.
+[2022.12.07-08.08.12:047][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.07-08.08.12:604][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.07-08.08.12:619][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.12.07-08.08.12:749][  0]LogSlate: Took 0.004955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.07-08.08.12:771][  0]LogSlate: Took 0.019027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.07-08.08.12:778][  0]LogSlate: Took 0.006681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.07-08.08.12:825][  0]LogSlate: Took 0.045731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.07-08.08.12:830][  0]LogSlate: Took 0.005546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.07-08.08.12:838][  0]LogSlate: Took 0.006627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.07-08.08.12:878][  0]LogSlate: Took 0.029179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.12.07-08.08.13:025][  0]LogRenderer: Reallocating scene render targets to support 1116x652 Format 10 NumSamples 1 (Frame:1).
+[2022.12.07-08.08.13:095][  0]LogSlate: Took 0.006338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.07-08.08.13:208][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.12.07-08.08.13:208][  0]LogLoad: (Engine Initialization) Total time: 45.62 seconds
+[2022.12.07-08.08.13:209][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.07-08.08.13:240][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.12.07-08.08.13:240][  0]LogContentValidation: Display: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 유효성 검사
+[2022.12.07-08.08.13:331][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.07-08.08.13:444][  1]LogAssetRegistry: Asset discovery search completed in 27.2193 seconds
+[2022.12.07-08.08.13:449][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2022.12.07-08.08.18:631][149]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/' took 5.38s
+[2022.12.07-08.08.29:780][412]LogRenderer: Reallocating scene render targets to support 1120x652 Format 10 NumSamples 1 (Frame:365).
+[2022.12.07-08.08.29:810][413]LogRenderer: Reallocating scene render targets to support 1124x652 Format 10 NumSamples 1 (Frame:367).
+[2022.12.07-08.08.29:840][414]LogRenderer: Reallocating scene render targets to support 1140x652 Format 10 NumSamples 1 (Frame:369).
+[2022.12.07-08.08.29:875][415]LogRenderer: Reallocating scene render targets to support 1156x652 Format 10 NumSamples 1 (Frame:371).
+[2022.12.07-08.08.29:907][416]LogRenderer: Reallocating scene render targets to support 1160x652 Format 10 NumSamples 1 (Frame:373).
+[2022.12.07-08.08.29:937][417]LogRenderer: Reallocating scene render targets to support 1164x652 Format 10 NumSamples 1 (Frame:375).
+[2022.12.07-08.08.29:965][418]LogRenderer: Reallocating scene render targets to support 1168x652 Format 10 NumSamples 1 (Frame:377).
+[2022.12.07-08.08.30:018][420]LogRenderer: Reallocating scene render targets to support 1172x652 Format 10 NumSamples 1 (Frame:381).
+[2022.12.07-08.08.30:046][421]LogRenderer: Reallocating scene render targets to support 1180x652 Format 10 NumSamples 1 (Frame:383).
+[2022.12.07-08.08.30:074][422]LogRenderer: Reallocating scene render targets to support 1184x652 Format 10 NumSamples 1 (Frame:385).
+[2022.12.07-08.08.30:102][423]LogRenderer: Reallocating scene render targets to support 1188x652 Format 10 NumSamples 1 (Frame:387).
+[2022.12.07-08.08.30:159][425]LogRenderer: Reallocating scene render targets to support 1196x652 Format 10 NumSamples 1 (Frame:391).
+[2022.12.07-08.08.30:187][426]LogRenderer: Reallocating scene render targets to support 1200x652 Format 10 NumSamples 1 (Frame:393).
+[2022.12.07-08.08.30:216][427]LogRenderer: Reallocating scene render targets to support 1204x652 Format 10 NumSamples 1 (Frame:395).
+[2022.12.07-08.08.30:245][428]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:397).
+[2022.12.07-08.08.30:297][430]LogRenderer: Reallocating scene render targets to support 1212x652 Format 10 NumSamples 1 (Frame:401).
+[2022.12.07-08.08.30:341][432]LogRenderer: Reallocating scene render targets to support 1216x652 Format 10 NumSamples 1 (Frame:405).
+[2022.12.07-08.08.30:417][436]LogRenderer: Reallocating scene render targets to support 1220x652 Format 10 NumSamples 1 (Frame:411).
+[2022.12.07-08.08.30:446][437]LogRenderer: Reallocating scene render targets to support 1224x652 Format 10 NumSamples 1 (Frame:413).
+[2022.12.07-08.08.30:475][438]LogRenderer: Reallocating scene render targets to support 1228x652 Format 10 NumSamples 1 (Frame:415).
+[2022.12.07-08.08.36:509][ 74]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.07-08.08.36:533][ 74]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/BP_Enemy.BP_Enemy
+[2022.12.07-08.08.36:781][ 74]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2022.12.07-08.08.37:748][ 74]LogSlate: Took 0.005818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.07-08.08.37:949][ 75]LogSlate: Took 0.005753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.07-08.08.39:321][183]LogSlate: Window 'BP_Enemy' being destroyed
+[2022.12.07-08.08.49:983][262]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Combo/BP_Sword.BP_Sword
+[2022.12.07-08.11.22:514][848]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.11.58:207][ 32]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster from Actor to BP_Enemy_C...
+[2022.12.07-08.11.58:225][ 32]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.11.58:463][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.12.07-08.12.19:298][426]LogSlate: Took 0.005390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.12.07-08.12.31:356][840]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.07-08.12.33:604][934]LogSlate: Window '블루프린트 부모변경' being destroyed
+[2022.12.07-08.12.33:609][934]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster from BP_Enemy_C to Actor...
+[2022.12.07-08.12.33:625][934]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.12.33:634][934]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'Hpbar' for 'ParticleSystem' in BlueprintGeneratedClass 'BP_ShowMonster_C' (it may have been removed)
+[2022.12.07-08.12.33:634][934]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'Hpbar' for 'Box' in BlueprintGeneratedClass 'BP_ShowMonster_C' (it may have been removed)
+[2022.12.07-08.12.33:800][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_9:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.12.33:800][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Engine/Transient.World_9:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.12.33:800][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_9:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.12.33:800][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.12.33:800][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.12.33:800][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.12.33:801][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_8:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.12.33:801][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Engine/Transient.World_8:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.12.33:801][934]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_8:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.12.33:839][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.12.07-08.12.37:761][386]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.12.37:970][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.12.07-08.12.38:325][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_ShowMonster" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset" SILENT=true
+[2022.12.07-08.12.38:351][420]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonster9B0E6F784E80AEE151C74480DDA05A98.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset'
+[2022.12.07-08.12.38:368][420]AssetCheck: New page: Asset Save: BP_ShowMonster
+[2022.12.07-08.12.38:368][420]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster 유효성 검사
+[2022.12.07-08.13.10:242][644]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.13.10:450][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.12.07-08.13.14:309][ 84]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.07-08.13.14:321][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-08.13.14:329][ 84]PIE: New page: PIE 세션: Player (2022. 12. 8. 오전 2:13:14)
+[2022.12.07-08.13.14:333][ 84]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.07-08.13.14:335][ 84]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.07-08.13.14:336][ 84]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.07-08.13.14:341][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004686s)
+[2022.12.07-08.13.14:343][ 84]LogAIModule: Creating AISystem for world Player
+[2022.12.07-08.13.14:343][ 84]LogPlayLevel: PIE: World Init took: (0.002074s)
+[2022.12.07-08.13.14:344][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.007433s)
+[2022.12.07-08.13.14:380][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-08.13.14:382][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-08.13.14:382][ 84]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.07-08.13.14:382][ 84]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Name: 스피커(High Definition Audio Device)
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Is Default: Yes
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: Channel Order:
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.07-08.13.14:430][ 84]LogAudioMixer: Display: 1: FrontRight
+[2022.12.07-08.13.14:454][ 84]LogAudioMixer: Display: Using Audio Device 스피커(High Definition Audio Device)
+[2022.12.07-08.13.14:457][ 84]LogInit: FAudioDevice initialized.
+[2022.12.07-08.13.14:474][ 84]LogLoad: Game class is 'GameModeBase'
+[2022.12.07-08.13.14:484][ 84]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.07-17.13.14
+[2022.12.07-08.13.14:500][ 84]LogWorld: Bringing up level for play took: 0.017031
+[2022.12.07-08.13.14:501][ 84]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.12.07-08.13.14:516][ 84]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.12.07-08.13.14:528][ 84]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: -0.334
+[2022.12.07-08.13.19:184][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.07-08.13.19:196][597]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.07-08.13.19:216][597]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.07-08.13.19:218][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.13.19:218][597]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.07-08.13.19:219][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.07-08.13.19:222][597]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.13.19:222][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.13.19:238][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-08.13.19:243][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.13.19:285][597]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.07-08.13.19:290][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-08.13.19:313][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.12.07-08.13.19:333][598]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.07-08.18.18:587][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.12.07-08.18.18:619][738]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player_Auto1DD43664A4D116EE99780C2BF8349761E.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Autosaves/Game/Levels/Player_Auto1.umap'
+[2022.12.07-08.18.18:621][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Player' took 0.088
+[2022.12.07-08.18.18:622][738]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2022.12.07-08.18.18:622][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_ShowMonster] ([1] browsable assets)...
+[2022.12.07-08.18.18:622][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_ShowMonster]
+[2022.12.07-08.18.18:643][738]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonster_Auto1A7CFBE9148DA29657795AF84845D021D.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Autosaves/Game/BluePrint/BP_ShowMonster_Auto1.uasset'
+[2022.12.07-08.18.18:644][738]LogFileHelpers: Auto-saving content packages took 0.023
+[2022.12.07-08.30.26:963][670]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.30.30:435][670]LogUObjectHash: Compacting FUObjectHashTables data took  33.59ms
+[2022.12.07-08.31.03:102][280]LogUObjectHash: Compacting FUObjectHashTables data took  28.79ms
+[2022.12.07-08.31.03:201][280]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player_Auto24D8F48B641C2867B0FF897AA6FA24A5E.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Autosaves/Game/Levels/Player_Auto2.umap'
+[2022.12.07-08.31.03:202][280]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Player' took 0.245
+[2022.12.07-08.31.03:203][280]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2022.12.07-08.31.03:203][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_ShowMonster] ([1] browsable assets)...
+[2022.12.07-08.31.03:203][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_ShowMonster]
+[2022.12.07-08.31.03:278][280]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonster_Auto2ECBDF4354FD28C9DC3D787BFBCBB5840.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Autosaves/Game/BluePrint/BP_ShowMonster_Auto2.uasset'
+[2022.12.07-08.31.03:282][280]LogFileHelpers: Auto-saving content packages took 0.080
+[2022.12.07-08.32.07:146][348]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.07-08.32.17:700][439]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster from Actor to BP_Enemy_C...
+[2022.12.07-08.32.17:828][439]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.32.18:403][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.12.07-08.32.20:025][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_ShowMonster" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset" SILENT=true
+[2022.12.07-08.32.20:102][577]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonsterE9CD3AB54162731F78DCFE81DD6DC03B.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset'
+[2022.12.07-08.32.20:161][577]AssetCheck: New page: Asset Save: BP_ShowMonster
+[2022.12.07-08.32.20:170][577]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster 유효성 검사
+[2022.12.07-08.32.54:577][393]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.32.54:886][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.12.07-08.35.18:708][148]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.35.19:043][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2022.12.07-08.35.25:476][787]BlueprintLog: New page: BP_Enemy 컴파일
+[2022.12.07-08.35.26:130][787]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2022.12.07-08.35.57:713][297]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.35.58:107][297]LogUObjectHash: Compacting FUObjectHashTables data took  17.77ms
+[2022.12.07-08.36.02:716][723]BlueprintLog: New page: BP_Enemy 컴파일
+[2022.12.07-08.36.03:007][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.12.07-08.36.12:446][768]BlueprintLog: New page: BP_Enemy 컴파일
+[2022.12.07-08.36.12:742][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.12.07-08.36.45:257][484]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.36.45:563][484]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.12.07-08.37.16:834][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/BP_Enemy" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Enemy/BP_Enemy.uasset" SILENT=true
+[2022.12.07-08.37.16:941][458]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_Enemy296F95E14B586E139139D999192D4B73.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Enemy/BP_Enemy.uasset'
+[2022.12.07-08.37.16:994][458]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.12.07-08.37.16:995][458]LogContentValidation: Display: Blueprint /Game/Enemy/BP_Enemy.BP_Enemy 유효성 검사
+[2022.12.07-08.37.27:201][637]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.37.27:201][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.37.32:057][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/BP_ShowMonster" FILE="../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset" SILENT=true
+[2022.12.07-08.37.32:084][880]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonsterED6FFD3745A9ADA1753322874B6FF13A.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/BluePrint/BP_ShowMonster.uasset'
+[2022.12.07-08.37.32:107][880]AssetCheck: New page: Asset Save: BP_ShowMonster
+[2022.12.07-08.37.32:107][880]LogContentValidation: Display: Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster 유효성 검사
+[2022.12.07-08.39.53:303][283]LogRenderer: Reallocating scene render targets to support 1228x708 Format 10 NumSamples 1 (Frame:1).
+[2022.12.07-08.40.05:340][518]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.07-08.40.07:094][687]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-08.40.07:094][687]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.40.07:094][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.40.13:965][277]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.40.19:846][571]LogSlate: Window '블루프린트 부모변경' being destroyed
+[2022.12.07-08.40.19:849][571]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/BluePrint/BP_ShowMonster.BP_ShowMonster from BP_Enemy_C to Actor...
+[2022.12.07-08.40.19:886][571]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.40.19:892][571]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'ParticleSystem' in BlueprintGeneratedClass 'BP_ShowMonster_C' (it may have been removed)
+[2022.12.07-08.40.20:122][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.40.20:122][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Game/Levels/Player.Player:PersistentLevel.BP_ShowMonster_9
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_9:PersistentLevel.BP_ShowMonster_C_8
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Engine/Transient.World_9:PersistentLevel.BP_ShowMonster_C_8
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_9:PersistentLevel.BP_ShowMonster_C_8
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_11:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of Class /Script/Engine.Pawn. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.CallFunc_TryGetPawnOwner_ReturnValue
+    Item = BP_ShowMonster_C /Engine/Transient.World_11:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.40.20:123][571]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/BluePrint/BP_ShowMonster.BP_ShowMonster_C for a property of BlueprintGeneratedClass /Game/Enemy/BP_Enemy.BP_Enemy_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/Enemy/ABP_Enemy.ABP_Enemy_C:ExecuteUbergraph_ABP_Enemy.K2Node_DynamicCast_AsBP_Enemy
+    Item = BP_ShowMonster_C /Engine/Transient.World_11:PersistentLevel.BP_ShowMonster_C_0
+[2022.12.07-08.40.20:333][571]LogUObjectHash: Compacting FUObjectHashTables data took  18.31ms
+[2022.12.07-08.40.26:166][242]BlueprintLog: New page: BP_ShowMonster 컴파일
+[2022.12.07-08.40.26:444][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.12.07-08.40.38:497][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2022.12.07-08.41.06:557][991]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.12.07-08.41.06:583][991]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Player_Auto348F929CD4B5F6B11178B3488A14CFCD3.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Autosaves/Game/Levels/Player_Auto3.umap'
+[2022.12.07-08.41.06:586][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Player' took 0.078
+[2022.12.07-08.41.06:586][991]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2022.12.07-08.41.06:586][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrint/BP_ShowMonster] ([1] browsable assets)...
+[2022.12.07-08.41.06:586][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/BP_ShowMonster]
+[2022.12.07-08.41.06:605][991]LogSavePackage: Moving '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/BP_ShowMonster_Auto3F30F1BD043DD77E4F1C3CBB7F0133ECD.tmp' to '../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Saved/Autosaves/Game/BluePrint/BP_ShowMonster_Auto3.uasset'
+[2022.12.07-08.41.06:607][991]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.12.07-08.44.56:456][334]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Combo/BP_Sword.BP_Sword
+[2022.12.07-08.45.03:731][100]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::ApplyDamage' [요소가 없습니다.]
+[2022.12.07-08.45.57:905][690]Cmd: DELETE
+[2022.12.07-08.45.57:906][690]Cmd: ACTOR DELETE
+[2022.12.07-08.45.57:973][690]LogEditorActor: Deleted Actor: BP_ShowMonster_C
+[2022.12.07-08.45.58:019][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.12.07-08.45.58:020][690]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.12.07-08.46.00:498][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.12.07-08.46.04:399][954]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-08.46.18:465][954]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-08.46.18:465][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-08.46.18:600][954]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BluePrint/BP_ShowMonster.BP_ShowMonster
+[2022.12.07-08.46.20:324][954]LogCompression: Warning: appUncompressMemoryZLIB failed: Error: Z_DATA_ERROR, input data was corrupted or incomplete!
+[2022.12.07-08.46.20:324][954]LogCompression: Error: FCompression::UncompressMemory - Failed to uncompress memory (131118/131072) from address 000001EEF57CD000 using format Zlib, this may indicate the asset is corrupt!
+[2022.12.07-08.46.20:327][954]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.07-08.46.20:327][954]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2022.12.07-08.46.23:424][954]LogWindows: Error: === Critical error: ===
+[2022.12.07-08.46.23:424][954]LogWindows: Error: 
+[2022.12.07-08.46.23:424][954]LogWindows: Error: Assertion failed: bUncompressMemorySucceeded [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Serialization/Archive.cpp] [Line: 683] 
+[2022.12.07-08.46.23:424][954]LogWindows: Error: Failed to uncompress data in ../../../../../../Users/ghwns/OneDrive/바탕 화면/Unreal_3DPortFolio/Content/Character/Textures/T_UE4_Mannequin__normals.uasset. Check log for details.
+[2022.12.07-08.46.23:424][954]LogWindows: Error: 
+[2022.12.07-08.46.23:424][954]LogWindows: Error: 
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffdcf7dcd29 KERNELBASE.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7a95a7b6 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7a95dc58 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7a712c7d UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7a69fd43 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7a6a20c0 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7ac42f26 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7a77a135 UE4Editor-Core.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd748538f0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd7483838e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd74839434 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd74813e25 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd74887d7f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd749d525c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.12.07-08.46.23:424][954]LogWindows: Error: [Callstack] 0x00007ffd6fde7c5c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd6fde682f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd6f6016f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd6f87cde8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd6f8765c4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd71301498 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd71319281 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd7117323f UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd711f9175 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd711e413e UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd711d8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd9a044ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd9a03242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd9a047195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd9a02ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffdd056e858 USER32.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffdd056e299 USER32.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd9a048569 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd71204080 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd711a1c85 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:464][954]LogWindows: Error: [Callstack] 0x00007ffd6f910fa6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd6fdda1ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd6fdd9696 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd5ffa4a9c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd600c6377 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd600a3ba8 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd711a9ada UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd711e03de UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd600ee08b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd71171041 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd711e224d UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd711d7b0f UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd9a044918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd9a03242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd9a047195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd9a02ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffdd056e858 USER32.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffdd056e299 USER32.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffd9a048699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ff7325b6db0 UE4Editor.exe!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ff7325cc3ec UE4Editor.exe!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ff7325cc4ca UE4Editor.exe!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ff7325dceae UE4Editor.exe!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ff7325dfcbe UE4Editor.exe!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffdd02d74b4 KERNEL32.DLL!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: [Callstack] 0x00007ffdd1e026a1 ntdll.dll!UnknownFunction []
+[2022.12.07-08.46.23:465][954]LogWindows: Error: 
+[2022.12.07-08.46.23:494][954]LogExit: Executing StaticShutdownAfterError
+[2022.12.07-08.46.23:917][954]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.12.07-08.46.23:917][954]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.12.07-08.46.23:926][954]Log file closed, 12/07/22 17:46:23
