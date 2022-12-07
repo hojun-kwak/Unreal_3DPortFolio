@@ -1,0 +1,11 @@
+- 문자열
+FString : 변경, 검색, 비교 가능, 대소문자 자동변환
+FName : 에셋이름 지을때, 스켈레탈 메시 본에 접근할때, 문자열을 하나하나 비교하지않고, 해싱한 테이블에 저장한후 index값으로 비교, 비교시 대소문자를 구분하지 않고, 변경 불가
+FText   : text localization기능을 제공, 문자열 생성할때 사용, 모든플랫폼에서 2byte 문자열로 사용
+
+- Setvisivility
+Visible : 화면에 보이면서 마우스 클릭 등의 인터랙션 발생
+Collapsed : 화면에 보이지 않지만 공간은 차지하지 않을 경우
+Hidden : 화면에 보이지 않지만 공간은 차지하는경우(투명벽 느낌)
+HitTestInvisible : 화면에 보이지만 인터랙션은 발생하지 않음
+SelfHitTestInvisible : 화면에 보이고 인터랙션도 발생
