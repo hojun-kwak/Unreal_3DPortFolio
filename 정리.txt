@@ -9,3 +9,14 @@ Collapsed : 화면에 보이지 않지만 공간은 차지하지 않을 경우
 Hidden : 화면에 보이지 않지만 공간은 차지하는경우(투명벽 느낌)
 HitTestInvisible : 화면에 보이지만 인터랙션은 발생하지 않음
 SelfHitTestInvisible : 화면에 보이고 인터랙션도 발생
+
+
+-------------
+폰트 한글로 되게 폰트 생성 및 메테리얼 수정
+
+해야할거
+마우스클릭시 이동(롤 느낌)
+
+
+나중에 게임 스타트할때 사용예정
+https://www.youtube.com/watch?v=lOBWaUOsc24
