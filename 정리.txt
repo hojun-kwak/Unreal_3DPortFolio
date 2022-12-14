@@ -17,6 +17,8 @@ SelfHitTestInvisible : 화면에 보이고 인터랙션도 발생
 해야할거
 마우스클릭시 이동(롤 느낌)
 
-
 나중에 게임 스타트할때 사용예정
 https://www.youtube.com/watch?v=lOBWaUOsc24
+
+무기장착
+https://you-rang.tistory.com/notice/382
