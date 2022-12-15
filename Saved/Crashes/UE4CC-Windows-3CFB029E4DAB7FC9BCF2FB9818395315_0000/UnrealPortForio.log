@@ -1,0 +1,1521 @@
+﻿Log file open, 12/15/22 08:53:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealPortForio
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.796953
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.14-23.53.19:392][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.14-23.53.19:392][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.14-23.53.19:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:393][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.14-23.53.19:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.14-23.53.19:400][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.14-23.53.19:401][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.14-23.53.19:401][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.14-23.53.19:406][  0]LogHAL: Display: Platform has ~ 16 GB [17110605824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.14-23.53.19:406][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.14-23.53.19:406][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.12.14-23.53.19:406][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Scalability.ini]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.12.14-23.53.19:407][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.14-23.53.19:408][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.14-23.53.19:408][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.14-23.53.19:408][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Config/Windows/Engine.ini]
+[2022.12.14-23.53.19:413][  0]LogInit: Computer: DESKTOP-KK6FF69
+[2022.12.14-23.53.19:413][  0]LogInit: User: SN03
+[2022.12.14-23.53.19:413][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.12.14-23.53.19:413][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.14-23.53.19:413][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.14-23.53.19:413][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.14-23.53.19:413][  0]LogMemory: Process Physical Memory: 104.28 MB used, 104.29 MB peak
+[2022.12.14-23.53.19:413][  0]LogMemory: Process Virtual Memory: 99.95 MB used, 99.95 MB peak
+[2022.12.14-23.53.19:413][  0]LogMemory: Physical Memory: 2992.34 MB used,  13325.60 MB free, 16317.95 MB total
+[2022.12.14-23.53.19:413][  0]LogMemory: Virtual Memory: 5133.56 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2022.12.14-23.53.19:419][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.14-23.53.19:638][  0]LogInit: Using OS detected language (ko-KR).
+[2022.12.14-23.53.19:638][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.12.14-23.53.19:640][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.12.14-23.53.19:815][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.14-23.53.19:955][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.14-23.53.19:955][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.14-23.53.21:992][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.14-23.53.21:993][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.14-23.53.21:993][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.14-23.53.21:993][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.14-23.53.22:068][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.12.14-23.53.22:068][  0]LogD3D11RHI:       4018/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.12.14-23.53.22:070][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.14-23.53.22:070][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.14-23.53.22:070][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.12.14-23.53.22:076][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.14-23.53.22:077][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.14-23.53.22:077][  0]LogWindows: EnumDisplayDevices:
+[2022.12.14-23.53.22:077][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2022.12.14-23.53.22:077][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.12.14-23.53.22:077][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.12.14-23.53.22:077][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.12.14-23.53.22:077][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.14-23.53.22:077][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.12.14-23.53.22:077][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2022.12.14-23.53.22:077][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2022.12.14-23.53.22:078][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.12.14-23.53.22:133][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.14-23.53.22:134][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.14-23.53.22:162][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.12.14-23.53.22:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.14-23.53.22:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.14-23.53.22:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.14-23.53.22:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.14-23.53.22:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.14-23.53.22:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.14-23.53.22:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.14-23.53.22:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.14-23.53.22:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.14-23.53.22:604][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.14-23.53.22:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.14-23.53.22:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.14-23.53.22:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.14-23.53.22:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.14-23.53.22:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.14-23.53.22:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.14-23.53.22:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.14-23.53.22:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.14-23.53.22:678][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.14-23.53.22:690][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.14-23.53.22:811][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (D:/KHJ/Unreal/Unreal_3DPortFolio/Intermediate/Shaders/WorkingDirectory/3696/).
+[2022.12.14-23.53.22:811][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SN_03/AppData/Local/Temp/UnrealShaderWorkingDir/2807F87C441908D664E28683F9976320/'.
+[2022.12.14-23.53.22:813][  0]LogXGEController: Cleaning working directory: C:/Users/SN_03/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.12.14-23.53.22:813][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.14-23.53.22:813][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.14-23.53.22:813][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.14-23.53.25:164][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.14-23.53.25:383][  0]LogDerivedDataCache: Loaded boot cache 0.22s 79MB C:/Users/SN_03/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.14-23.53.25:383][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SN_03/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.12.14-23.53.25:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/KHJ/Unreal/Unreal_3DPortFolio/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.14-23.53.25:383][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.14-23.53.25:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/KHJ/Unreal/Unreal_3DPortFolio/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.14-23.53.25:383][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.14-23.53.25:403][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.14-23.53.25:404][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.14-23.53.25:404][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.14-23.53.25:405][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SN_03/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.14-23.53.25:405][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.14-23.53.25:405][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.14-23.53.25:429][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.12.14-23.53.25:443][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.14-23.53.25:455][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.14-23.53.25:590][  0]LogAssetRegistry: FAssetRegistry took 0.0069 seconds to start up
+[2022.12.14-23.53.25:967][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.14-23.53.26:304][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.14-23.53.26:304][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.14-23.53.26:304][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.14-23.53.26:304][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.14-23.53.26:304][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.14-23.53.26:357][  0]LogNetVersion: UnrealPortForio 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 877020118)
+[2022.12.14-23.53.28:731][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.030392 seconds
+[2022.12.14-23.53.28:738][  0]LogUObjectArray: 46756 objects as part of root set at end of initial load.
+[2022.12.14-23.53.28:738][  0]LogUObjectAllocator: 8139224 out of 0 bytes used by permanent object pool.
+[2022.12.14-23.53.28:738][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.14-23.53.29:631][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.14-23.53.29:659][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.14-23.53.29:777][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.14-23.53.29:777][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.14-23.53.29:791][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.14-23.53.29:798][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.14-23.53.29:803][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.14-23.53.30:099][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.14-23.53.30:122][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.14-23.53.30:122][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.14-23.53.30:275][  0]LogOcInput: OculusInput pre-init called
+[2022.12.14-23.53.30:290][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.12.14-23.53.30:290][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.12.14-23.53.30:408][  0]LogEngine: Initializing Engine...
+[2022.12.14-23.53.30:409][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.14-23.53.30:413][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2022.12.14-23.53.30:702][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.14-23.53.30:750][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.53.30:763][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.53.30:763][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.53.30:764][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.53.30:764][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.53.30:785][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.53.30:817][  0]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.53.30:824][  0]LogInit: FAudioDevice initialized.
+[2022.12.14-23.53.30:824][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.14-23.53.30:913][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/SN_03/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.12.14-23.53.30:915][  0]LogInit: Texture streaming: Enabled
+[2022.12.14-23.53.30:932][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.14-23.53.30:932][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.14-23.53.30:933][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.14-23.53.30:964][  0]LogInit: Transaction tracking system initialized
+[2022.12.14-23.53.31:017][  0]BlueprintLog: New page: 에디터 로드
+[2022.12.14-23.53.31:199][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.12.14-23.53.32:519][  0]LogFileCache: Scanning file cache for directory 'D:/KHJ/Unreal/Unreal_3DPortFolio/Content/' took 0.00s
+[2022.12.14-23.53.32:519][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.12.14-23.53.32:519][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.14-23.53.33:311][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.12.14-23.53.33:324][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.24/FeaturePacks/StarterContent.upack)
+[2022.12.14-23.53.33:336][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.12.14-23.53.33:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.12.14-23.53.33:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.12.14-23.53.33:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.12.14-23.53.33:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.12.14-23.53.33:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.12.14-23.53.33:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.12.14-23.53.33:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.12.14-23.53.33:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.12.14-23.53.33:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.12.14-23.53.33:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.12.14-23.53.33:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.12.14-23.53.33:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.12.14-23.53.33:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.12.14-23.53.33:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.12.14-23.53.33:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.12.14-23.53.33:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.12.14-23.53.33:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.12.14-23.53.33:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire01.uasset"
+[2022.12.14-23.53.33:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.12.14-23.53.33:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.12.14-23.53.33:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.12.14-23.53.33:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Light01.uasset"
+[2022.12.14-23.53.33:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.12.14-23.53.33:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Light02.uasset"
+[2022.12.14-23.53.33:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.12.14-23.53.33:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.12.14-23.53.33:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.12.14-23.53.33:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.12.14-23.53.33:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.12.14-23.53.33:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.12.14-23.53.33:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.12.14-23.53.33:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.12.14-23.53.33:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.12.14-23.53.33:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Steam01.uasset"
+[2022.12.14-23.53.33:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.12.14-23.53.33:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.12.14-23.53.33:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.12.14-23.53.33:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.12.14-23.53.33:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.12.14-23.53.33:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.12.14-23.53.33:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.12.14-23.53.33:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.12.14-23.53.33:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.12.14-23.53.33:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.12.14-23.53.33:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.12.14-23.53.33:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.12.14-23.53.33:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.12.14-23.53.33:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.12.14-23.53.33:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.12.14-23.53.33:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.12.14-23.53.33:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.12.14-23.53.33:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.12.14-23.53.33:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.12.14-23.53.33:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.12.14-23.53.33:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.12.14-23.53.33:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.12.14-23.53.33:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Maps/StarterMap.umap"
+[2022.12.14-23.53.33:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.12.14-23.53.33:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.12.14-23.53.33:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.12.14-23.53.33:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.12.14-23.53.33:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.12.14-23.53.33:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.12.14-23.53.33:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.12.14-23.53.33:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.12.14-23.53.33:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.12.14-23.53.33:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.12.14-23.53.33:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.12.14-23.53.33:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.12.14-23.53.33:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.12.14-23.53.33:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.12.14-23.53.33:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.12.14-23.53.33:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.12.14-23.53.33:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.12.14-23.53.33:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.12.14-23.53.33:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.12.14-23.53.34:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.12.14-23.53.34:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.12.14-23.53.34:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.12.14-23.53.34:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.12.14-23.53.34:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.12.14-23.53.34:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.12.14-23.53.34:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.12.14-23.53.34:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.12.14-23.53.34:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.12.14-23.53.34:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.12.14-23.53.34:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.12.14-23.53.34:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.12.14-23.53.34:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.12.14-23.53.34:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.12.14-23.53.34:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.12.14-23.53.34:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.12.14-23.53.34:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.12.14-23.53.34:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.12.14-23.53.34:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.12.14-23.53.34:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.12.14-23.53.34:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.12.14-23.53.34:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.12.14-23.53.34:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.12.14-23.53.34:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.12.14-23.53.34:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.12.14-23.53.34:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.12.14-23.53.34:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.12.14-23.53.34:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.12.14-23.53.34:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.12.14-23.53.34:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.12.14-23.53.34:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.12.14-23.53.34:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.12.14-23.53.34:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.12.14-23.53.34:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.12.14-23.53.34:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.12.14-23.53.34:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.12.14-23.53.34:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.12.14-23.53.34:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.12.14-23.53.34:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.12.14-23.53.34:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.12.14-23.53.34:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.12.14-23.53.34:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.12.14-23.53.34:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.12.14-23.53.34:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.12.14-23.53.34:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.12.14-23.53.34:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.12.14-23.53.34:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Door.uasset"
+[2022.12.14-23.53.34:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.12.14-23.53.34:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.12.14-23.53.34:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.12.14-23.53.34:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.12.14-23.53.34:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.12.14-23.53.34:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.12.14-23.53.34:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.12.14-23.53.34:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.12.14-23.53.34:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.12.14-23.53.34:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.12.14-23.53.34:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.12.14-23.53.34:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.12.14-23.53.34:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.12.14-23.53.34:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.12.14-23.53.34:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.12.14-23.53.34:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.12.14-23.53.34:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.12.14-23.53.34:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.12.14-23.53.34:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.12.14-23.53.34:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.12.14-23.53.34:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.12.14-23.53.34:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.12.14-23.53.34:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.12.14-23.53.34:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.12.14-23.53.34:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.12.14-23.53.34:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.12.14-23.53.34:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.12.14-23.53.34:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.12.14-23.53.34:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.12.14-23.53.34:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.12.14-23.53.34:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.12.14-23.53.34:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.12.14-23.53.34:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.12.14-23.53.34:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.12.14-23.53.34:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.12.14-23.53.34:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.12.14-23.53.34:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.12.14-23.53.34:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.12.14-23.53.34:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.12.14-23.53.34:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.12.14-23.53.34:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.12.14-23.53.34:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.12.14-23.53.34:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.12.14-23.53.34:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.12.14-23.53.34:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.12.14-23.53.34:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.12.14-23.53.34:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.12.14-23.53.34:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.12.14-23.53.34:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.12.14-23.53.34:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.12.14-23.53.34:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.12.14-23.53.34:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.12.14-23.53.34:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.12.14-23.53.34:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.12.14-23.53.34:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.12.14-23.53.34:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.12.14-23.53.34:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.12.14-23.53.34:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.12.14-23.53.34:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.12.14-23.53.34:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.12.14-23.53.34:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.12.14-23.53.34:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.12.14-23.53.34:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.12.14-23.53.34:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.12.14-23.53.34:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.12.14-23.53.34:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.12.14-23.53.34:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.12.14-23.53.34:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.12.14-23.53.34:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.12.14-23.53.34:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.12.14-23.53.35:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.12.14-23.53.35:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.12.14-23.53.35:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.12.14-23.53.35:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.12.14-23.53.35:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.12.14-23.53.35:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.12.14-23.53.35:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.12.14-23.53.35:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.12.14-23.53.35:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.12.14-23.53.35:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.12.14-23.53.35:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.12.14-23.53.35:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.12.14-23.53.35:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.12.14-23.53.35:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.12.14-23.53.35:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.12.14-23.53.35:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.12.14-23.53.35:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.12.14-23.53.35:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.12.14-23.53.35:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.12.14-23.53.35:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.12.14-23.53.35:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.12.14-23.53.35:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.12.14-23.53.35:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.12.14-23.53.35:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.12.14-23.53.35:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.12.14-23.53.35:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.12.14-23.53.35:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.12.14-23.53.35:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.12.14-23.53.35:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.12.14-23.53.35:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.12.14-23.53.35:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.12.14-23.53.35:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.12.14-23.53.35:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.12.14-23.53.35:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.12.14-23.53.35:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.12.14-23.53.35:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.12.14-23.53.35:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.12.14-23.53.35:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.12.14-23.53.35:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.12.14-23.53.35:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.12.14-23.53.35:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.12.14-23.53.35:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.12.14-23.53.35:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.12.14-23.53.35:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.12.14-23.53.36:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.12.14-23.53.36:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.12.14-23.53.36:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.12.14-23.53.36:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.12.14-23.53.36:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.12.14-23.53.36:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.12.14-23.53.36:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.12.14-23.53.36:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.12.14-23.53.36:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.12.14-23.53.36:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.12.14-23.53.36:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.12.14-23.53.36:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.12.14-23.53.36:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.12.14-23.53.36:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.12.14-23.53.36:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.12.14-23.53.36:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.12.14-23.53.36:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.12.14-23.53.36:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.12.14-23.53.36:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.12.14-23.53.36:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.12.14-23.53.36:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.12.14-23.53.36:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.12.14-23.53.36:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.12.14-23.53.36:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.12.14-23.53.36:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.12.14-23.53.36:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.12.14-23.53.36:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.12.14-23.53.36:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.12.14-23.53.36:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.12.14-23.53.36:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.12.14-23.53.36:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.12.14-23.53.36:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.12.14-23.53.36:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.12.14-23.53.36:658][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2022.12.14-23.53.36:724][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.12.14-23.53.36:739][  0]LogSavePackage: Moving 'D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Floor_400x40041E0295F467A035BF87EF4BF7623A9A7.tmp' to 'D:/KHJ/Unreal/Unreal_3DPortFolio/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.12.14-23.53.36:740][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2022.12.14-23.53.36:741][  0]Cmd: MAP LOAD FILE="D:/KHJ/Unreal/Unreal_3DPortFolio/Content/Levels/Player.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.14-23.53.36:741][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.14-23.53.36:746][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.53.36:746][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.53.36:747][  0]MapCheck: New page: 맵 체크
+[2022.12.14-23.53.36:747][  0]LightingResults: New page: 라이팅 빌드
+[2022.12.14-23.53.36:778][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.14-23.53.37:104][  0]LogBlueprint: Warning: [Compiler ANS_Collision] 'BP_Sword_C' 에서 "Box_0" 라는 이름의 변수를 찾을 수 없습니다.
+ Box_0 구하기  에 대해 'BP_Sword_C' 컴파일이 되었는지 확인하세요.
+[2022.12.14-23.53.37:105][  0]LogBlueprint: Warning: [Compiler ANS_Collision] 'BP_Sword_C' 에서 "Box_0" 라는 이름의 변수를 찾을 수 없습니다.
+ Box_0 구하기  에 대해 'BP_Sword_C' 컴파일이 되었는지 확인하세요.
+[2022.12.14-23.53.37:146][  0]LogBlueprint: Error: [Compiler ANS_Collision] Box 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.12.14-23.53.37:146][  0]LogBlueprint: Error: [Compiler ANS_Collision] Box 0  와 연관된 프로퍼티를 찾지 못했습니다.
+[2022.12.14-23.53.37:822][  0]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.53.37:861][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.14-23.53.37:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.14-23.53.37:897][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.14-23.53.37:898][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.08ms.
+[2022.12.14-23.53.37:898][  0]LogFileHelpers: Loading map 'Player' took 1.156
+[2022.12.14-23.53.38:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.53.38:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.53.38:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.53.38:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.53.38:158][  0]LogCollectionManager: Loaded 0 collections in 0.001682 seconds
+[2022.12.14-23.53.38:191][  0]LogFileCache: Scanning file cache for directory 'D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Collections/' took 0.00s
+[2022.12.14-23.53.38:191][  0]LogFileCache: Scanning file cache for directory 'D:/KHJ/Unreal/Unreal_3DPortFolio/Content/Developers/SN03/Collections/' took 0.00s
+[2022.12.14-23.53.38:191][  0]LogFileCache: Scanning file cache for directory 'D:/KHJ/Unreal/Unreal_3DPortFolio/Content/Collections/' took 0.00s
+[2022.12.14-23.53.38:191][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 3015 classes and 717 folders.
+[2022.12.14-23.53.38:201][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.14-23.53.38:560][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.12.14-23.53.38:579][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.12.14-23.53.38:827][  0]LogSlate: Took 0.005259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.14-23.53.38:844][  0]LogSlate: Took 0.015385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.12.14-23.53.38:850][  0]LogSlate: Took 0.004606 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.14-23.53.38:866][  0]LogSlate: Took 0.014574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.12.14-23.53.38:870][  0]LogSlate: Took 0.004136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.14-23.53.38:876][  0]LogSlate: Took 0.005447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.14-23.53.38:919][  0]LogSlate: Took 0.014172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.12.14-23.53.39:003][  0]LogRenderer: Reallocating scene render targets to support 1252x520 Format 9 NumSamples 1 (Frame:1).
+[2022.12.14-23.53.39:045][  0]LogSlate: Took 0.005081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.14-23.53.39:098][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.14-23.53.39:098][  0]LogLoad: (Engine Initialization) Total time: 25.74 seconds
+[2022.12.14-23.53.39:098][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.14-23.53.39:121][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.12.14-23.53.39:121][  0]LogContentValidation: Display: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 유효성 검사
+[2022.12.14-23.53.39:161][  0]LogAssetRegistry: Asset discovery search completed in 13.5721 seconds
+[2022.12.14-23.53.39:164][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2022.12.14-23.53.39:207][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.12.14-23.53.39:239][  1]LogRenderer: Reallocating scene render targets to support 1252x528 Format 9 NumSamples 1 (Frame:3).
+[2022.12.14-23.53.39:446][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/KHJ/Unreal/Unreal_3DPortFolio/Content/' took 0.32s
+[2022.12.14-23.55.38:068][171]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.14-23.55.38:078][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Weapon.BP_Weapon
+[2022.12.14-23.55.38:252][171]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2022.12.14-23.55.39:019][171]LogSlate: Took 0.004784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.14-23.55.39:143][172]LogSlate: Took 0.004358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.14-23.55.40:895][362]LogSlate: Window 'BP_Weapon' being destroyed
+[2022.12.14-23.55.55:757][131]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.14-23.55.55:761][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-23.55.55:761][131]BlueprintLog: Warning: {Name} 블루프린트 컴파일에 실패했습니다. ANS_Collision
+[2022.12.14-23.55.55:762][131]LogCustomDialog: Dialog displayed:
+[2022.12.14-23.55.57:054][131]LogSlate: Window '블루프린트 컴파일 오류' being destroyed
+[2022.12.14-23.55.57:062][131]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 5:55:57)
+[2022.12.14-23.55.57:064][131]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.14-23.55.57:065][131]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.14-23.55.57:065][131]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.55.57:069][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003053s)
+[2022.12.14-23.55.57:070][131]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.55.57:070][131]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2022.12.14-23.55.57:070][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.004537s)
+[2022.12.14-23.55.57:106][131]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.55.57:110][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.55.57:110][131]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.55.57:110][131]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.55.57:117][131]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.55.57:126][131]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.55.57:127][131]LogInit: FAudioDevice initialized.
+[2022.12.14-23.55.57:133][131]LogLoad: Game class is 'GameModeBase'
+[2022.12.14-23.55.57:136][131]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-08.55.57
+[2022.12.14-23.55.57:142][131]LogWorld: Bringing up level for play took: 0.006949
+[2022.12.14-23.55.57:142][131]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.12.14-23.55.57:149][131]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2022.12.14-23.55.57:154][131]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 1.951
+[2022.12.14-23.55.59:516][372]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.55.59:516][372]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.55.59:517][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.55.59:517][372]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.55.59:517][372]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.55.59:519][372]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.55.59:519][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.55.59:532][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-23.55.59:536][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.55.59:569][372]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.55.59:572][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.55.59:593][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.12.14-23.55.59:623][375]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.12.14-23.56.05:446][ 49]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2022.12.14-23.56.09:689][491]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.14-23.56.09:692][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-23.56.09:692][491]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 5:56:09)
+[2022.12.14-23.56.09:692][491]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.56.09:695][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002631s)
+[2022.12.14-23.56.09:696][491]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.56.09:696][491]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2022.12.14-23.56.09:696][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003819s)
+[2022.12.14-23.56.09:732][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.56.09:734][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.56.09:734][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.56.09:735][491]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.56.09:735][491]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.56.09:741][491]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.56.09:749][491]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.56.09:750][491]LogInit: FAudioDevice initialized.
+[2022.12.14-23.56.09:757][491]LogLoad: Game class is 'GameModeBase'
+[2022.12.14-23.56.09:759][491]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-08.56.09
+[2022.12.14-23.56.09:760][491]LogWorld: Bringing up level for play took: 0.001641
+[2022.12.14-23.56.09:760][491]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.12.14-23.56.09:762][491]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 0.559
+[2022.12.14-23.56.29:024][733]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.56.29:035][733]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.14-23.56.29:055][733]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.14-23.56.29:055][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.56.29:055][733]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.56.29:055][733]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.56.29:055][733]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.56.29:055][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.56.29:087][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-23.56.29:091][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.56.29:124][733]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.56.29:126][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.56.29:130][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.12.14-23.56.29:154][734]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.14-23.56.30:407][883]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.14-23.56.30:409][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-23.56.30:409][883]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 5:56:30)
+[2022.12.14-23.56.30:410][883]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.56.30:412][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002722s)
+[2022.12.14-23.56.30:413][883]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.56.30:413][883]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2022.12.14-23.56.30:413][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003694s)
+[2022.12.14-23.56.30:447][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.12.14-23.56.30:447][883]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.56.30:447][883]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.56.30:447][883]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.56.30:447][883]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.56.30:448][883]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.56.30:448][883]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.56.30:448][883]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.56.30:448][883]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.56.30:448][883]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.56.30:448][883]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.56.30:454][883]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.56.30:462][883]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.56.30:463][883]LogInit: FAudioDevice initialized.
+[2022.12.14-23.56.30:473][883]LogLoad: Game class is 'GameModeBase'
+[2022.12.14-23.56.30:475][883]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-08.56.30
+[2022.12.14-23.56.30:475][883]LogWorld: Bringing up level for play took: 0.001637
+[2022.12.14-23.56.30:475][883]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.12.14-23.56.30:477][883]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: -0.726
+[2022.12.14-23.56.52:425][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.56.52:435][514]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.14-23.56.52:454][514]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.14-23.56.52:454][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.56.52:454][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.56.52:454][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.56.52:455][514]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.56.52:455][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.56.52:469][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-23.56.52:473][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.56.52:504][514]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.56.52:507][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.56.52:511][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.12.14-23.56.52:532][516]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.14-23.57.22:821][ 85]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.14-23.57.23:093][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.12.14-23.57.24:871][277]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.14-23.57.24:874][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-23.57.24:874][277]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 5:57:24)
+[2022.12.14-23.57.24:874][277]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.57.24:877][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002678s)
+[2022.12.14-23.57.24:878][277]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.57.24:878][277]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2022.12.14-23.57.24:878][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003634s)
+[2022.12.14-23.57.24:914][277]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.57.24:915][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.57.24:915][277]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.57.24:915][277]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.57.24:921][277]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.57.24:929][277]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.57.24:931][277]LogInit: FAudioDevice initialized.
+[2022.12.14-23.57.24:938][277]LogLoad: Game class is 'GameModeBase'
+[2022.12.14-23.57.24:940][277]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-08.57.24
+[2022.12.14-23.57.24:940][277]LogWorld: Bringing up level for play took: 0.001634
+[2022.12.14-23.57.24:941][277]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.12.14-23.57.24:943][277]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: -0.26
+[2022.12.14-23.57.41:235][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.57.41:243][230]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.14-23.57.41:273][230]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.14-23.57.41:273][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.57.41:273][230]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.57.41:273][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.57.41:273][230]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.57.41:274][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.57.41:289][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-23.57.41:293][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.57.41:324][230]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.57.41:327][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.57.41:331][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.12.14-23.57.41:347][231]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.12.14-23.57.55:638][903]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.14-23.57.55:641][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-23.57.55:641][903]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 5:57:55)
+[2022.12.14-23.57.55:641][903]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.57.55:643][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002579s)
+[2022.12.14-23.57.55:644][903]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.57.55:644][903]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2022.12.14-23.57.55:644][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003501s)
+[2022.12.14-23.57.55:678][903]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.57.55:679][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.57.55:679][903]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.57.55:679][903]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.57.55:685][903]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.57.55:693][903]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.57.55:694][903]LogInit: FAudioDevice initialized.
+[2022.12.14-23.57.55:702][903]LogLoad: Game class is 'GameModeBase'
+[2022.12.14-23.57.55:704][903]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-08.57.55
+[2022.12.14-23.57.55:704][903]LogWorld: Bringing up level for play took: 0.001618
+[2022.12.14-23.57.55:704][903]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.12.14-23.57.55:707][903]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 0.503
+[2022.12.14-23.57.59:434][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.57.59:453][345]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.14-23.57.59:473][345]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.14-23.57.59:473][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.57.59:473][345]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.57.59:473][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.57.59:473][345]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.57.59:473][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.57.59:490][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-23.57.59:495][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.57.59:525][345]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.57.59:527][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.57.59:531][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.12.14-23.57.59:548][346]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.12.14-23.59.20:178][405]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.14-23.59.20:180][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.14-23.59.20:181][405]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 5:59:20)
+[2022.12.14-23.59.20:181][405]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.59.20:184][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002999s)
+[2022.12.14-23.59.20:184][405]LogAIModule: Creating AISystem for world Player
+[2022.12.14-23.59.20:185][405]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2022.12.14-23.59.20:185][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.004060s)
+[2022.12.14-23.59.20:220][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.14-23.59.20:221][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.14-23.59.20:221][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.14-23.59.20:222][405]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.14-23.59.20:222][405]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Is Default: Yes
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: Channel Order:
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.14-23.59.20:228][405]LogAudioMixer: Display: 1: FrontRight
+[2022.12.14-23.59.20:237][405]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.14-23.59.20:238][405]LogInit: FAudioDevice initialized.
+[2022.12.14-23.59.20:247][405]LogLoad: Game class is 'GameModeBase'
+[2022.12.14-23.59.20:249][405]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-08.59.20
+[2022.12.14-23.59.20:249][405]LogWorld: Bringing up level for play took: 0.001752
+[2022.12.14-23.59.20:250][405]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.12.14-23.59.20:252][405]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 1.049
+[2022.12.14-23.59.27:288][247]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.59.27:301][247]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.14-23.59.27:321][247]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.14-23.59.27:321][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.59.27:321][247]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.14-23.59.27:321][247]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.59.27:321][247]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.14-23.59.27:322][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.59.27:338][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.14-23.59.27:342][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.14-23.59.27:372][247]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.14-23.59.27:374][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.14-23.59.27:378][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.12.14-23.59.27:395][248]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.15-00.00.41:651][ 15]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.15-00.00.41:922][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.12.15-00.00.43:959][242]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.15-00.00.43:961][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.15-00.00.43:961][242]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 6:00:43)
+[2022.12.15-00.00.43:961][242]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.00.43:965][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002627s)
+[2022.12.15-00.00.43:965][242]LogAIModule: Creating AISystem for world Player
+[2022.12.15-00.00.43:965][242]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2022.12.15-00.00.43:965][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003947s)
+[2022.12.15-00.00.44:004][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.15-00.00.44:005][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.15-00.00.44:005][242]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.15-00.00.44:005][242]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Is Default: Yes
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: Channel Order:
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.15-00.00.44:011][242]LogAudioMixer: Display: 1: FrontRight
+[2022.12.15-00.00.44:019][242]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.00.44:020][242]LogInit: FAudioDevice initialized.
+[2022.12.15-00.00.44:027][242]LogLoad: Game class is 'GameModeBase'
+[2022.12.15-00.00.44:029][242]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-09.00.44
+[2022.12.15-00.00.44:030][242]LogWorld: Bringing up level for play took: 0.001641
+[2022.12.15-00.00.44:030][242]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.12.15-00.00.44:032][242]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 0.829
+[2022.12.15-00.00.46:856][579]LogScript: Warning: K2Node_DynamicCast_AsBP_Weapon 프로퍼티를 통해 BP_Weapon_19 에 접근하려 하였으나, BP_Weapon_19 는 킬 대기중입니다.
+	BP_Player_C /Game/Levels/UEDPIE_0_Player.Player:PersistentLevel.BP_Player_2
+	Function /Game/Player/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0BA5
+[2022.12.15-00.00.46:856][579]PIE: Error: 블루프린트 런타임 오류: "K2Node_DynamicCast_AsBP_Weapon 프로퍼티를 통해 BP_Weapon_19 에 접근하려 하였으나, BP_Weapon_19 는 킬 대기중입니다.". 블루프린트: BP_Player 함수: Execute Ubergraph BP Player 그래프: AttachWeapon 노드: 데이터 테이블 행 ItemData_Table 가져오기
+[2022.12.15-00.00.47:966][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.00.47:966][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.00.47:966][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.00.47:966][712]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.00.47:966][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.00.47:967][712]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-00.00.47:967][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.00.47:984][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.15-00.00.47:989][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.00.48:019][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.00.48:020][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.00.48:025][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.12.15-00.00.48:127][713]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.12.15-00.00.53:145][278]LogSlate: Window '메시지 로그' being destroyed
+[2022.12.15-00.00.53:149][278]LogSlate: Window '메시지 로그' being destroyed
+[2022.12.15-00.01.11:732][447]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.15-00.01.12:002][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.12.15-00.01.13:714][630]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.15-00.01.13:716][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.15-00.01.13:716][630]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 6:01:13)
+[2022.12.15-00.01.13:716][630]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.01.13:719][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002538s)
+[2022.12.15-00.01.13:720][630]LogAIModule: Creating AISystem for world Player
+[2022.12.15-00.01.13:720][630]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2022.12.15-00.01.13:720][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003443s)
+[2022.12.15-00.01.13:756][630]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.15-00.01.13:757][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.15-00.01.13:757][630]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.15-00.01.13:757][630]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Is Default: Yes
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: Channel Order:
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.15-00.01.13:763][630]LogAudioMixer: Display: 1: FrontRight
+[2022.12.15-00.01.13:771][630]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.01.13:772][630]LogInit: FAudioDevice initialized.
+[2022.12.15-00.01.13:779][630]LogLoad: Game class is 'GameModeBase'
+[2022.12.15-00.01.13:781][630]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-09.01.13
+[2022.12.15-00.01.13:781][630]LogWorld: Bringing up level for play took: 0.001632
+[2022.12.15-00.01.13:781][630]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.12.15-00.01.13:784][630]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 0.581
+[2022.12.15-00.01.27:348][255]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.01.27:358][255]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.15-00.01.27:389][255]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.15-00.01.27:389][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.01.27:389][255]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.01.27:389][255]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.01.27:389][255]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-00.01.27:390][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.01.27:408][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.15-00.01.27:412][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.01.27:443][255]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.01.27:445][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.01.27:450][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.12.15-00.01.27:466][256]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.15-00.04.47:128][920]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.15-00.04.47:404][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.12.15-00.04.48:080][990]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.15-00.04.48:082][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.15-00.04.48:083][990]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 6:04:48)
+[2022.12.15-00.04.48:083][990]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.04.48:086][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002821s)
+[2022.12.15-00.04.48:086][990]LogAIModule: Creating AISystem for world Player
+[2022.12.15-00.04.48:086][990]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2022.12.15-00.04.48:086][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003826s)
+[2022.12.15-00.04.48:124][990]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.15-00.04.48:124][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.15-00.04.48:124][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.15-00.04.48:125][990]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.15-00.04.48:125][990]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Is Default: Yes
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: Channel Order:
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.15-00.04.48:131][990]LogAudioMixer: Display: 1: FrontRight
+[2022.12.15-00.04.48:141][990]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.04.48:142][990]LogInit: FAudioDevice initialized.
+[2022.12.15-00.04.48:150][990]LogLoad: Game class is 'GameModeBase'
+[2022.12.15-00.04.48:152][990]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-09.04.48
+[2022.12.15-00.04.48:153][990]LogWorld: Bringing up level for play took: 0.001639
+[2022.12.15-00.04.48:153][990]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.12.15-00.04.48:155][990]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 0.952
+[2022.12.15-00.04.57:954][164]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.04.57:974][164]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.15-00.04.57:994][164]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.15-00.04.57:994][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.04.57:994][164]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.04.57:994][164]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.04.57:994][164]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-00.04.57:994][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.04.58:005][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.15-00.04.58:010][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.04.58:041][164]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.04.58:044][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.04.58:048][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.12.15-00.04.58:064][165]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.12.15-00.06.19:019][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.12.15-00.06.19:027][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Player" FILE="D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Autosaves/Game/Levels/Player_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.12.15-00.06.19:048][571]LogSavePackage: Moving 'D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Player_Auto1EFD685EF47C16CD34085098928D01DCB.tmp' to 'D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Autosaves/Game/Levels/Player_Auto1.umap'
+[2022.12.15-00.06.19:049][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Player' took 0.061
+[2022.12.15-00.06.19:049][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.061
+[2022.12.15-00.06.19:049][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_Player] ([1] browsable assets)...
+[2022.12.15-00.06.19:058][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/BP_Player.BP_Player]
+[2022.12.15-00.06.19:058][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2022.12.15-00.06.19:058][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Autosaves/Game/Player/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.12.15-00.06.19:154][571]LogSavePackage: Moving 'D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/BP_Player_Auto17A293FCF43CE2FA762CE988747868CC1.tmp' to 'D:/KHJ/Unreal/Unreal_3DPortFolio/Saved/Autosaves/Game/Player/BP_Player_Auto1.uasset'
+[2022.12.15-00.06.19:155][571]LogFileHelpers: Auto-saving content packages took 0.106
+[2022.12.15-00.06.43:768][479]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.15-00.06.44:038][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.12.15-00.06.57:010][966]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.15-00.06.57:013][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.15-00.06.57:013][966]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 6:06:57)
+[2022.12.15-00.06.57:013][966]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.06.57:016][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002689s)
+[2022.12.15-00.06.57:016][966]LogAIModule: Creating AISystem for world Player
+[2022.12.15-00.06.57:017][966]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2022.12.15-00.06.57:017][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003695s)
+[2022.12.15-00.06.57:054][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.15-00.06.57:055][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.15-00.06.57:055][966]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.15-00.06.57:055][966]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Is Default: Yes
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: Channel Order:
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.15-00.06.57:061][966]LogAudioMixer: Display: 1: FrontRight
+[2022.12.15-00.06.57:070][966]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.06.57:071][966]LogInit: FAudioDevice initialized.
+[2022.12.15-00.06.57:077][966]LogLoad: Game class is 'GameModeBase'
+[2022.12.15-00.06.57:079][966]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-09.06.57
+[2022.12.15-00.06.57:079][966]LogWorld: Bringing up level for play took: 0.001656
+[2022.12.15-00.06.57:080][966]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.12.15-00.06.57:082][966]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: -0.121
+[2022.12.15-00.06.58:998][194]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_Player.Player:PersistentLevel.BP_Player_2.CollisionCylinder' 루트 컴포넌트는 동일 액터 내 다른 컴포넌트에 붙일 수 없습니다. 중단합니다.
+[2022.12.15-00.07.00:582][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.07.00:611][384]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.15-00.07.00:631][384]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.15-00.07.00:631][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.07.00:631][384]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.07.00:631][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.07.00:631][384]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-00.07.00:631][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.07.00:651][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.15-00.07.00:656][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.07.00:687][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.07.00:689][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.07.00:693][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.12.15-00.07.00:767][385]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.12.15-00.07.02:845][583]LogSlate: Window '메시지 로그' being destroyed
+[2022.12.15-00.07.02:848][583]LogSlate: Window '메시지 로그' being destroyed
+[2022.12.15-00.07.42:158][238]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.15-00.07.42:434][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.12.15-00.07.43:210][314]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.12.15-00.07.43:212][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.15-00.07.43:212][314]PIE: New page: PIE 세션: Player (2022. 12. 15. 오후 6:07:43)
+[2022.12.15-00.07.43:212][314]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.07.43:215][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002568s)
+[2022.12.15-00.07.43:216][314]LogAIModule: Creating AISystem for world Player
+[2022.12.15-00.07.43:216][314]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2022.12.15-00.07.43:216][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Player.Player to /Game/Levels/UEDPIE_0_Player.Player (0.003552s)
+[2022.12.15-00.07.43:252][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.15-00.07.43:252][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.15-00.07.43:252][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.15-00.07.43:253][314]LogAudio: Display: Using built-in audio occlusion.
+[2022.12.15-00.07.43:253][314]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Name: Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Is Default: Yes
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Sample Rate: 48000
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Channel Count Used: 2
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Device Channel Count: 2
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: Channel Order:
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.15-00.07.43:259][314]LogAudioMixer: Display: 1: FrontRight
+[2022.12.15-00.07.43:267][314]LogAudioMixer: Display: Using Audio Device Monitor(NVIDIA High Definition Audio)
+[2022.12.15-00.07.43:268][314]LogInit: FAudioDevice initialized.
+[2022.12.15-00.07.43:273][314]LogLoad: Game class is 'GameModeBase'
+[2022.12.15-00.07.43:275][314]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Player.Player up for play (max tick rate 0) at 2022.12.15-09.07.43
+[2022.12.15-00.07.43:275][314]LogWorld: Bringing up level for play took: 0.001609
+[2022.12.15-00.07.43:275][314]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.12.15-00.07.43:278][314]PIE: /Game/Levels/UEDPIE_0_Player 에 대한 에디터에서 플레이 시작 시간: 0.075
+[2022.12.15-00.07.47:158][777]PIE: Warning: AttachTo: '/Game/Levels/UEDPIE_0_Player.Player:PersistentLevel.BP_Player_2.CollisionCylinder' 루트 컴포넌트는 동일 액터 내 다른 컴포넌트에 붙일 수 없습니다. 중단합니다.
+[2022.12.15-00.07.48:975][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.07.48:979][995]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.12.15-00.07.49:000][995]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.12.15-00.07.49:000][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.07.49:000][995]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Player
+[2022.12.15-00.07.49:000][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.07.49:000][995]LogWorld: UWorld::CleanupWorld for Player, bSessionEnded=true, bCleanupResources=true
+[2022.12.15-00.07.49:001][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.07.49:021][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.15-00.07.49:025][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.15-00.07.49:056][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.12.15-00.07.49:058][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.15-00.07.49:062][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.12.15-00.07.49:152][996]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.12.15-00.07.51:113][198]LogSlate: Window '메시지 로그' being destroyed
+[2022.12.15-00.07.51:116][198]LogSlate: Window '메시지 로그' being destroyed
+[2022.12.15-00.09.02:782][716]BlueprintLog: New page: BP_Player 컴파일
+[2022.12.15-00.09.03:055][716]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.12.15-00.09.10:195][541]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Player/ABP_Player.ABP_Player
+[2022.12.15-00.09.10:219][541]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.12.15-00.09.10:436][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.15-00.09.10:445][541]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.12.15-00.09.10:686][541]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.12.15-00.09.11:226][541]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.12.15-00.09.13:141][767]LogUObjectArray: Warning: Other object in slot
+[2022.12.15-00.09.13:147][767]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.15-00.09.13:826][767]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.679 s
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: 
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: Stack: 
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc8427b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc7c3678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc7c4409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc522c5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdadfe977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdadfa1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc90cb144 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc92bdc63 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc91160b3 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc90f46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffdc90e8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe12b74ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe12b6242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe12b77195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe12b5ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe275ce858 USER32.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe275ce299 USER32.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe12b78699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ff735aa6db0 UE4Editor.exe!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ff735abc3ec UE4Editor.exe!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ff735abc4ca UE4Editor.exe!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ff735acceae UE4Editor.exe!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ff735acfcbe UE4Editor.exe!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe26f37034 KERNEL32.DLL!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: [Callstack] 0x00007ffe27922651 ntdll.dll!UnknownFunction []
+[2022.12.15-00.09.13:827][767]LogOutputDevice: Error: 
+[2022.12.15-00.09.13:862][767]LogStats:                SubmitErrorReport -  0.000 s
